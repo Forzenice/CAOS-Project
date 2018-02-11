@@ -1,0 +1,26 @@
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.exe.config
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.exe
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.pdb
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main_GUI.Form1.resources
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main_GUI.Properties.Resources.resources
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.csproj.GenerateResource.Cache
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.exe
+C:\Users\kangj\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.pdb
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.exe.config
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.exe
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.pdb
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.exe
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\bin\Release\Main GUI.pdb
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.csprojResolveAssemblyReference.cache
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main_GUI.Form1.resources
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main_GUI.Properties.Resources.resources
+C:\Users\lim\Desktop\CAOS project Final 2\Main GUI\Main GUI\obj\Release\Main GUI.csproj.GenerateResource.Cache
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\bin\Release\Main GUI.exe.config
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main GUI.exe
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main GUI.pdb
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\bin\Release\Main GUI.exe
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\bin\Release\Main GUI.pdb
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main GUI.csprojResolveAssemblyReference.cache
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main_GUI.Form1.resources
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main_GUI.Properties.Resources.resources
+C:\Users\lim\Desktop\CAOS Merge\CAOS project Final 3\Main GUI\Main GUI\obj\Release\Main GUI.csproj.GenerateResource.Cache
